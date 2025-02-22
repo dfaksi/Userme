@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Pengetahuan tentang penyakit jantung koroner, gejala, pencegahan, dan pengobatan.">
+    <meta name="keywords" content="jantung koroner, penyakit jantung, kesehatan">
+    <meta name="author" content="Nama Kamu">
+    <title>Penyakit Jantung Koroner</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Penyakit Jantung Koroner</h1>
+        <nav>
+            <ul>
+                <li><a href="#home">Beranda</a></li>
+                <li><a href="#gejala">Gejala</a></li>
+                <li><a href="#pencegahan">Pencegahan</a></li>
+                <li><a href="#kontak">Kontak</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="home">
+        <h2>Apa Itu Penyakit Jantung Koroner?</h2>
+        <p>PJK adalah kondisi penyempitan pembuluh darah jantung akibat plak, yang bisa menyebabkan serangan jantung.</p>
+    </section>
+
+    <section id="gejala">
+        <h2>Gejala Jantung Koroner</h2>
+        <ul>
+            <li>Nyeri dada (angina)</li>
+            <li>Sesak napas</li>
+            <li>Mudah lelah</li>
+        </ul>
+    </section>
+
+    <section id="pencegahan">
+        <h2>Cara Mencegah Jantung Koroner</h2>
+        <p>- Hindari makanan tinggi lemak trans</p>
+        <p>- Rutin berolahraga</p>
+        <p>- Kurangi stres dan merokok</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 Penyakit Jantung Koroner | <a href="#kontak">Hubungi Kami</a></p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
